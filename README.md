@@ -4,9 +4,9 @@
 Sou um desenvolvedor e utilizo este espaço para registrar e compartilhar meu aprendizado.  
 Acredito que a melhor forma de crescer como programador é desenvolvendo projetos práticos e explorando novas ideias.
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipegaldinos&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegaldinos&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
 </div>
 
 ### 💻 Tecnologias que utilizo.
