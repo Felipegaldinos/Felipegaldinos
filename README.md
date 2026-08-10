@@ -4,10 +4,9 @@ Sou um desenvolvedor e utilizo este espaço para registrar e compartilhar meu ap
 Acredito que a melhor forma de crescer como programador é desenvolvendo projetos práticos e explorando novas ideias.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felipegaldinos&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipegaldinos&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+  <img src="https://img.shields.io/github/followers/felipegaldinos?style=for-the-badge&logo=github&color=8A2BE2" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/felipegaldinos?style=for-the-badge&logo=github&color=8A2BE2" alt="Stars">
 </div>
-
 ### 💻 Tecnologias que utilizo
 
 <div>
