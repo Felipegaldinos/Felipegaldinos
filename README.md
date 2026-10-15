@@ -27,3 +27,13 @@ Acredito que a melhor forma de crescer como programador é desenvolvendo projeto
 ---
 
 Navegue pelos repositórios e aproveite! 😉
+
+## Projetos em destaque
+
+- [Guia de Empregabilidade](https://github.com/Felipegaldinos/guia-empregabilidade) — módulos educacionais, quizzes, autenticação e progresso com Firebase.
+- [Araújo Esportes](https://github.com/Felipegaldinos/araujo-esportes) — catálogo, carrinho, painel de produtos e pedidos pelo WhatsApp.
+- [Galeria de Projetos](https://github.com/Felipegaldinos/Galeria-de-projetos) — vitrine com busca, filtros e painel de métricas.
+
+### Outros projetos
+
+[Concessionária](https://github.com/Felipegaldinos/site-concessionaria), [Destino Encantado](https://github.com/Felipegaldinos/destino_encantado), [Clínica Vida Plena](https://github.com/Felipegaldinos/clinica-vida-plena), [Gestão de Estoque](https://github.com/Felipegaldinos/gestao-de-estoque) e [Envio de E-mails](https://github.com/Felipegaldinos/automacao-de-email). Consulte o README de cada projeto para execução e limitações.
